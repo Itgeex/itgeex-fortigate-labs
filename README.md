@@ -25,6 +25,7 @@ Progress and planned labs are tracked in `ROADMAP.md`.
 labs/
 ├── lab-01-basic-firewall-policy/
 ├── lab-02-site-to-site-vpn/
+├── ...
 docs/
 ├── diagrams/
 └── notes/
