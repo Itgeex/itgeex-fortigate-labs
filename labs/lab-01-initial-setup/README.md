@@ -36,8 +36,6 @@ This lab focuses on **clean design, security-first configuration, and operationa
 [ Internal Network ]
 ```
 
----
-
 ### 🧩 Assumptions
 - FortiGate is freshly installed or factory reset
 - WAN interface is connected to upstream router or ISP
