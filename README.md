@@ -28,7 +28,8 @@ labs/
 docs/
 ├── diagrams/
 └── notes/
-scripts/
+scripts/```
+
 ---
 
 ## 🔐 Focus Areas
