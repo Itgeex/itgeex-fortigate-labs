@@ -29,7 +29,6 @@ docs/
 ├── diagrams/
 └── notes/
 scripts/
-
 ---
 
 ## 🔐 Focus Areas
