@@ -25,7 +25,7 @@ This lab focuses on **clean design, security-first configuration, and operationa
 - Management PC / Laptop
 
 ### 🌐 Network Topology
-'''text
+```text
      [ Internet ]
           |
         (WAN)
@@ -34,7 +34,7 @@ This lab focuses on **clean design, security-first configuration, and operationa
   (LAN)      (MGMT)
          |
 [ Internal Network ]
-'''
+```
 
 ---
 
