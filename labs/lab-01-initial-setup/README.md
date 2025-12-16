@@ -25,16 +25,8 @@ This lab focuses on **clean design, security-first configuration, and operationa
 - Management PC / Laptop
 
 ### 🌐 Network Topology
-```text
-     [ Internet ]
-          |
-        (WAN)
-    [ FortiGate ]
-    |           |
-  (LAN)      (MGMT)
-         |
-[ Internal Network ]
-```
+
+![Lab 01 – FortiGate Initial Setup Topology](lab01-topology.png)
 
 ### 🧩 Assumptions
 - FortiGate is freshly installed or factory reset
