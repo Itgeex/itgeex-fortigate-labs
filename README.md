@@ -19,20 +19,6 @@ Progress and planned labs are tracked in `ROADMAP.md`.
 
 ---
 
-## 🧱 Repository Structure
-
-```text
-labs/
-├── lab-01-basic-firewall-policy/
-├── lab-02-site-to-site-vpn/
-├── ...
-docs/
-├── diagrams/
-└── notes/
-scripts/
-```
----
-
 ## 🔐 Focus Areas
 - FortiGate firewall policies & NAT
 - Site-to-Site & Remote Access VPN (IPsec / SSL)
