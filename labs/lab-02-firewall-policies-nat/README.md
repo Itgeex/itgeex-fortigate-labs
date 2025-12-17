@@ -26,14 +26,7 @@ and real-world troubleshooting**, not just allowing traffic.
 - Internet / Upstream Network
 
 ### 🌐 Network Topology
-
-[ Internal Client ]
-|
-(LAN)
-[ FortiGate ]
-(WAN)
-|
-[ Internet ]
+![Lab 02 – Firewall Policies & NAT Topology](lab02-topology.png)
 
 ---
 
