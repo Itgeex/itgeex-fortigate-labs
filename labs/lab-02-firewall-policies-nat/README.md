@@ -26,7 +26,7 @@ and real-world troubleshooting**, not just allowing traffic.
 - Internet / Upstream Network
 
 ### 🌐 Network Topology
-![Lab 02 – Firewall Policies & NAT Topology](lab02-topology.png)
+![Lab 02 – Firewall Policies & NAT Topology](Lab02-Topology.png)
 
 ---
 
