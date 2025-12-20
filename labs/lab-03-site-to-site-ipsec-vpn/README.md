@@ -35,11 +35,7 @@ using enterprise-grade encryption and best practices.
 - LAN Subnet: `192.168.20.0/24`
 
 ### 🌐 Topology
-192.168.10.0/24 192.168.20.0/24
-[ LAN A ] [ LAN B ]
-| |
-[ FortiGate A ] ===== IPsec VPN ===== [ FortiGate B ]
-(WAN) Internet (WAN)
+![Lab 03 – Site-to-Site IPsec VPN](Lab03-Topology.png)
 
 ---
 
