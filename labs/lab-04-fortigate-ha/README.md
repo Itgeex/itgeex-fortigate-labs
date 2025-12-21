@@ -37,16 +37,7 @@ minimal downtime** in enterprise network environments.
 ---
 
 ## 🌐 Topology
-      Internet
-          |
-       ( WAN )
-    [ FortiGate A ]
-       |       |
-    (LAN)   (HA)
-       |       |
-    [ FortiGate B ]
-          |
-       Internal LAN
+![Lab 04 – FortiGate High Availability](Lab04-Topology.png)
 
 ---
 
