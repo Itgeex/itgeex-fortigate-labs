@@ -9,10 +9,10 @@ All labs are based on real-world enterprise use cases.
 ## 🟢 Phase 1 – Fundamentals
 Goal: Build a solid FortiGate foundation
 
-- [ ] Lab 01 – FortiGate initial setup & interface configuration
-- [ ] Lab 02 – Firewall policies & NAT
-- [ ] Lab 03 – Basic security profiles (IPS, AV, Web Filter)
-- [ ] Lab 04 – Logging & traffic inspection basics
+- [ ] FortiGate initial setup & interface configuration
+- [ ] Firewall policies & NAT
+- [ ] Basic security profiles (IPS, AV, Web Filter)
+- [ ] Logging & traffic inspection basics
 
 ---
 
