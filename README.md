@@ -12,7 +12,7 @@ scenario-based FortiGate experience.
 ## 🧭 Roadmap Status
 Progress and planned labs are tracked in `ROADMAP.md`.
 
-✔ Phase 1 – Fundamentals (In Progress)  
+⬜ Phase 1 – Fundamentals (In Progress)  
 ⬜ Phase 2 – Intermediate Scenarios  
 ⬜ Phase 3 – Advanced & Enterprise  
 ⬜ Phase 4 – Production & Best Practices  
